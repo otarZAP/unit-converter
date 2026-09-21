@@ -21,4 +21,6 @@ Produces `UnitConverter.exe`.
 
 ## Run
 
-Double-click `UnitConverter.exe`, or point a desktop shortcut at it.
+The built `UnitConverter.exe` is not checked in — it is build output, and `.gitignore`
+excludes it. Run `build.cmd` first, then double-click the `UnitConverter.exe` it
+produces, or point a desktop shortcut at it.
